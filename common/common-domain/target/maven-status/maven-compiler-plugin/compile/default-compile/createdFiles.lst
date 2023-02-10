@@ -1,0 +1,14 @@
+com/osiris/domain/exception/DomainException.class
+com/osiris/domain/event/DomainEvent.class
+com/osiris/domain/valueobject/OrderId.class
+com/osiris/domain/valueobject/RestaurantId.class
+com/osiris/domain/valueobject/Money.class
+com/osiris/domain/valueobject/PaymentStatus.class
+com/osiris/domain/valueobject/OrderApprovalStatus.class
+com/osiris/domain/entity/AggregateRoot.class
+com/osiris/domain/valueobject/CustomerId.class
+com/osiris/domain/valueobject/OrderStatus.class
+com/osiris/domain/entity/BaseEntity.class
+com/osiris/domain/valueobject/ProductId.class
+com/osiris/domain/event/DomainEventPublisher.class
+com/osiris/domain/valueobject/BaseId.class

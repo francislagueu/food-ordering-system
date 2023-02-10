@@ -1,0 +1,14 @@
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/OrderStatus.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/entity/AggregateRoot.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/BaseId.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/RestaurantId.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/OrderApprovalStatus.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/event/DomainEvent.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/PaymentStatus.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/Money.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/exception/DomainException.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/event/DomainEventPublisher.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/CustomerId.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/entity/BaseEntity.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/OrderId.java
+/Users/francislagueu/Development/ms/food-ordering-system/common/common-domain/src/main/java/com/osiris/domain/valueobject/ProductId.java
